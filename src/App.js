@@ -5,6 +5,7 @@ import Frase from './components/Frase';
 import list from './components/list';
 
 
+
 function App() {
   const nome ='maria'
  return (
